@@ -11,7 +11,7 @@ def printusertext(p_message):
 def printhelp():
 	#prints help text
 
-	printusertext("This is a script that reboots all devices in a specified network.")
+	printusertext("This is a script that reboots all devices in a specified meraki network.")
 	printusertext('')
 	printusertext('Usage:')
 	printusertext('python meraki-reboot-ap -k <API key> -o <org name> -n <network id> -t <seconds>')
