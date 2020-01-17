@@ -1,6 +1,7 @@
 import sys, getopt, requests, json, time
 
 # This file was last modified on 2020-01-16
+# This script retrieves a list of all devices for a network under an organization in meraki cloud and reboot them, using the interval given on the cli
 
 def printusertext(p_message):
 	#prints a line of text that is meant for the user to read
