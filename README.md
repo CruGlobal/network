@@ -1,4 +1,4 @@
-# network-operations
+# network-automation
 Scripts designed for network operations
 
 # Script's name and description
