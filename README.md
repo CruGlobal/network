@@ -1,2 +1,2 @@
 # network
-Scripts designed for the network team
+Scripts designed for the network operations
