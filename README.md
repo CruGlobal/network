@@ -1,5 +1,6 @@
-# network
-Scripts designed for the network operations
+# network-operations
+Scripts designed for network operations
 
-# Script Name                   Purpose
-meraki-reboot-all.py          Reboot all devices in a Meraki network
+# Script's name and description
+
+**meraki-reboot-all.py**: Reboot all devices in a Meraki network
